@@ -5,4 +5,6 @@ devops
 devops
 devops
 
-devops git
+devops git kubernates
+
+
